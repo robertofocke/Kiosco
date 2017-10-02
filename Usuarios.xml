@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tipo>
+  <usuarios>
+    <cuit>1111111111</cuit>
+    <usuario>usuario1</usuario>
+    <contrasenia>contraseña</contrasenia>
+  </usuarios>
+</tipo>
