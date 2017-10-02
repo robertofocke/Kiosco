@@ -1,0 +1,6 @@
+C:\Users\ksi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\bin\x86\Debug\WindowsFormsApplication2.exe.config
+C:\Users\ksi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\ksi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\ksi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\ksi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\ksi\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache

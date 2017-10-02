@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tipo>
+  <idProducto>1</idProducto>
+  <producto>computadora</producto>
+  <cantidad>1</cantidad>
+  <precioCosto>12345</precioCosto>
+  <precioVenta>12345</precioVenta>
+  
